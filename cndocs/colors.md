@@ -1,6 +1,6 @@
 ---
 id: colors
-title: 颜色
+title: 颜色123
 ---
 
 Components in React Native are [styled using JavaScript](style.md). Color properties usually match how [CSS works on the web](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value).
